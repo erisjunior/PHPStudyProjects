@@ -1,0 +1,3 @@
+<?php
+	include 'embreve.php';
+?>
